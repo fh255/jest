@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fh255/jest.git"
+  },
+  "author": "c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fh255/jest/issues"
+  },
+  "homepage": "https://github.com/fh255/jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "description": ""
+}
